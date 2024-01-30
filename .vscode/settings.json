@@ -1,0 +1,11 @@
+{
+    "notebook.consolidatedRunButton": false,
+    "notebook.find.scope": {
+        "markupSource": true,
+        "markupPreview": true,
+        "codeSource": true,
+        "codeOutput": true
+    },
+    "notebook.editorOptionsCustomizations": {},
+    "notebook.output.wordWrap": false
+}
